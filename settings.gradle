@@ -1,0 +1,2 @@
+rootProject.name='Test for Digital Nomads'
+include ':app'
